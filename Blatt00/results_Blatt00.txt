@@ -1,0 +1,8 @@
+AlgoDatBot,  04.05.2025, 10:45:54, b87d912b941cf5dd0cd8f8dfb017adf717bd145b
+Korrektur Blatt 0
+
+Aufgabe 3.5
+	Test, ob Abgaben.txt vorhanden ist: 10/10
+Total points for Aufgabe 3.5: 10/10
+
+Total points: 10/10
